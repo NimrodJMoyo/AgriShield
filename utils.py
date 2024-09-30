@@ -117,7 +117,7 @@ def create_html_report(results):
     html_content += f"""
         </div>
         <footer>
-            <p>Generated on {timestamp} by Neural Nomads</p>
+            <p>Generated on {timestamp} by Neural Nomads zw 2024</p>
         </footer>
     </body>
     </html>
