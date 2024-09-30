@@ -30,7 +30,7 @@ def process_images_in_folder(folder_path):
             'pests_result': pests_result,
             'cell_towers_result': cell_towers_result
         })
-    
+        print results
     return results
 
 def main():
